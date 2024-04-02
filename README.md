@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋
+## My name is Brayden Davis
+### And I am a student at Nora Frances
+****Im also pretty new at GitHub****
 <!--
 **B1L4L4HM4D/B1L4L4HM4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
