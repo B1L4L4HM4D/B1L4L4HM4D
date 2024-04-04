@@ -1,7 +1,7 @@
-# Hi there 👋
+# Wassup
 ## My name is Brayden Davis
-### And I am a student at Nora Frances
-****Im also pretty new at GitHub****
+# I am a student at Nora Francis Henderson Secondary School and currently working on getting better at GitHub!
+
 <!--
 **B1L4L4HM4D/B1L4L4HM4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
