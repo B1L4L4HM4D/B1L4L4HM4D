@@ -1,6 +1,8 @@
-# Wassup
+# Hello!
 ## My name is Brayden Davis
-# I am a student at Nora Francis Henderson Secondary School and currently working on getting better at GitHub!
+### I am a student at Nora Francis Henderson Secondary School and currently learning on getting better at GitHub!
+### My pronouns include: He/Him
+### I love playing video games along with listening to video game music such as Terraria.
 
 <!--
 **B1L4L4HM4D/B1L4L4HM4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
