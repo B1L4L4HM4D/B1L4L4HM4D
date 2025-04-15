@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brayden Davis</h1>
 <h3 align="center">A passionate Student that wants to learn a lot about Technology</h3>
 
-- 🔭 I’m currently working on **my GitHub profile and README.md**
+- 🔭 I’m currently working on **Software Development Culminating Task**
 
-- 🌱 I’m currently learning **on how to use GitHub.**
+- 🌱 I’m currently learning **Stage 1: Introduction and project planning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/B1L4L4HM4D?tab=projects](https://github.com/B1L4L4HM4D?tab=projects)
 
-- 💬 Ask me about **anything you want!**
+- 💬 Ask me about **Anything you want!**
 
 - 📫 How to reach me **bdavis6458@hwdsb.on.ca**
 
-- ⚡ Fun fact **I like playing and listening to Video Games.**
+- ⚡ Fun fact **I like playing, and creating games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
